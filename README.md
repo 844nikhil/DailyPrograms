@@ -6,3 +6,10 @@ Commit was made at 5:33pm on 3rd October.
 
 Make My Trip program 
 commit made at 6:58
+
+
+05-10-2018
+
+Name- Parking-Service
+commit made at 6:39
+technology used-HashMap
